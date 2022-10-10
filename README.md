@@ -1,4 +1,5 @@
-<h2> 🧑‍🎓 Exercícios e projetos de visualização de dados </h2>
+<h3> 🧑‍🎓 Exercícios e projetos de visualização de dados </h3>
+<h5> (clique nos links abaixo em azul para ser redirecionada(o) aos repositórios ou pastas) </h5> <br>
 
 - Desafio 01 em grupo - [Comunidade Mulheres em Dados](https://github.com/mulheresemdados):<br>
 Exercício final ➡️[Músicas mais tocadas entre 2010 - 2019 no Spotify](https://github.com/Mulheres-em-Dados-Desafios/desafio1-spotify)<br>
